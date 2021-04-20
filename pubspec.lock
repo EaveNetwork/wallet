@@ -685,6 +685,15 @@ packages:
       url: "https://github.com/true-eye/polkawallet_plugin_chainx.git"
     source: git
     version: "0.0.1"
+  polkawallet_plugin_eave:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "34279d5df55733b7fa9708594dfd77d367331b38"
+      resolved-ref: "34279d5df55733b7fa9708594dfd77d367331b38"
+      url: "https://github.com/EaveNetwork/polkawallet_plugin_eave.git"
+    source: git
+    version: "0.0.1"
   polkawallet_plugin_edgeware:
     dependency: "direct main"
     description:
