@@ -43,10 +43,10 @@ dependencies:
       ref: 8714c27a4f46e3f0277ab58b42eea547f7d33095
 #    path: ../../coding/polkawallet/polkawallet_plugin_acala
   polkawallet_plugin_eave:
-    git:
-      url: https://github.com/EaveNetwork/polkawallet_plugin_eave.git
-      ref: 34279d5df55733b7fa9708594dfd77d367331b38
-#    path: ../../coding/polkawallet/polkawallet_plugin_eave
+#    git:
+#      url: https://github.com/EaveNetwork/polkawallet_plugin_eave.git
+#      ref: 443651add3c43f544feb74eba3a123f27c2a3dea
+    path: ../polkawallet_plugin_eave
   polkawallet_plugin_laminar:
     git:
       url: https://github.com/polkawallet-io/polkawallet_plugin_laminar.git
